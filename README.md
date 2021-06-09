@@ -2,6 +2,8 @@
 <!---
 dvspandey/dvspandey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+Refrence:: https://github.com/anuraghazra/github-readme-stats
 --->
 
 <h1 align="center">Hi 👋, I'm Devesh Pandey</h1>
@@ -14,7 +16,19 @@ You can click the Preview link to take a look at your changes.
 
 
 ---
-[![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvspandey&count_private=true&show_icons=true&theme=vue)](https://github.com/dvspandey/github-readme-stats)
+[![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvspandey&count_private=true&show_icons=true&theme=vue)](https://github.com/dvspandey)
+
+
+<!-- For Lang -->
+
+
+
+
+
+
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dvspandey&repo=dvspandey)](https://github.com/dvspandey) For Repository as Card--> 
+
+
 
 
 <!--
