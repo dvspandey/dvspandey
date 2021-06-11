@@ -8,7 +8,6 @@ Refrence:: https://github.com/anuraghazra/github-readme-stats
 
 <h1 align="center">Hi 👋, I'm Devesh Pandey</h1>
 
-- 👋 Hi, I’m **Devesh Pandey**
 - 👀 I’m interested in ... `Project Development & Enhancement`
 - 🌱 I’m currently learning ... **Spring boot and microservices**
 - 💞️ I’m looking to collaborate on ... **Spring related Project with SpringBoot Style**
