@@ -12,17 +12,28 @@ Refrence:: https://github.com/anuraghazra/github-readme-stats
 - 🌱 I’m currently learning ... **JAVA | Angular**
 - 💞️ I’m looking to collaborate on ... **Java Projects**
 - 📫 How to reach me ... [ClickMe](https://mail.google.com/mail/u/0/?fs=1&to=dvspandey10@gmail.com&su=Say,+hello!&body=Say,+Hello+to+Devesh+Pandey+:\)%0A%C2%A0%C2%A0I%27m+reaching+with+your+GitHub+readMe&tf=cm)
----
-
-### Developer's Chunks of Projects,
-- CubeSolvo [https://cubesolvo.dvs.com](https://dvspandey.herokuapp.com/UI-Dark/indexDark.html)  | Deployed on Heroku.
-- WebChatApp [https://webchatapp.dvs.com](https://web-chatapp-dvs.herokuapp.com/welcomePage.jsp) | Deployed on Heroku.
-- GDMeet-Admin(Cybotians) [https://admingdmeet.web.app/](https://admingdmeet.web.app/)           | Deployed on Firebase & features.
 
 ---
 [![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=dvspandey&count_private=true&show_icons=true&theme=vue)](https://github.com/dvspandey)
 
+---
 
+### Developer's Chunks of Projects, :construction_worker_man:
+- #### GDMeet-Admin(Cybotians):: [https://admingdmeet.web.app/](https://admingdmeet.web.app/)
+   - Deployed on Firebase & features.
+   - Project on **Angular12, Bootstrap5** ,  
+   - Code Repository::
+     -  https://github.com/dvspandey/CybotiansGdAdmin
+- #### CubeSolvo:: [https://cubesolvo.dvs.com](https://dvspandey.herokuapp.com/UI-Dark/indexDark.html)
+   - Deployed on Heroku.
+   - Project on **Java (servlet)**
+   - Code Repository::
+     -  https://github.com/dvspandey/RubiksCube3x3
+- #### WebChatApp:: [https://webchatapp.dvs.com](https://web-chatapp-dvs.herokuapp.com/welcomePage.jsp)
+   - Deployed on Heroku.
+   - Project on **Java (servlet, Jsp, jdbc)**
+   - Code Repository::
+     -  https://github.com/dvspandey/Web-ChatApplication
 <!-- For Lang -->
 
 
