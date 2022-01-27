@@ -18,7 +18,6 @@ Refrence:: https://github.com/anuraghazra/github-readme-stats
 
 ---
 
-### Developer's Chunks of Projects, :construction_worker_man:
 - #### GDMeet-Admin(Cybotians):: [https://admingdmeet.web.app/](https://admingdmeet.web.app/)
    - Deployed on Firebase & features.
    - Project on **Angular12, Bootstrap5** ,  
